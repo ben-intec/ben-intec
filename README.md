@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bendesmedt
+- 👋 Hi, I’m ben
 - 👀 I’m interested in software developement
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on fun projects
